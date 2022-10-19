@@ -4,7 +4,7 @@
 
 ## Predavanja: Petak 18:00 - 20:00 
 
-## Vežbe: Četvrtkom (Grupa 1, M i R smerovi) od 17:00 do 19:00 i Petkom od 16:00 do 18:00 (Grupa 2, V i N smerovi)
+## Vežbe: Četvrtkom (Grupa 1, M i R smerovi) od 16:00 do 18:00 i Petkom od 15:00 do 17:00 (Grupa 2, V i N smerovi)
 
 ## Literatura: 
 
