@@ -1,5 +1,7 @@
 # OPA22
 
+## Novo: Snimljeno predavanje #5 (nedelja u kojoj bismo inače gubili čas zbog praznika) se nalazi ovde: https://www.youtube.com/watch?v=pYo5KDkh2xc&ab_channel=IvanMilic
+
 ## Materijali za kurs Odabranih Poglavlja Astronomije za skolsku 2022/23 god
 
 ## Predavanja: Petak 18:00 - 20:00 
