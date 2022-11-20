@@ -8,6 +8,8 @@
 
 ## Vežbe: Četvrtkom (Grupa 1, M i R smerovi) od 16:00 do 18:00 i Petkom od 15:00 do 17:00 (Grupa 2, V i N smerovi)
 
+## Konsultacije: Utorkom 12:00 - 14:00, Petkom 14:00 - 16:00, naše kancelarije su na Katedri za Astronomiju
+
 ## Literatura: 
 
 ### Robin Grin: Astronomija u novom Ruhu, poglavlja 1, 2, 3, 6 i 10
