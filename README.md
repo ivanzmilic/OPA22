@@ -1,5 +1,8 @@
 # OPA22
 
+## Novo: Rok za prijavu seminarskih radova je 6. Januar. Ako još uvek niste uzeli temu - uradite to što pre!
+
+--------------------------------------------------------------------------------------------------------------------------
 ## Novo: Snimljeno predavanje #5 (nedelja u kojoj bismo inače gubili čas zbog praznika) se nalazi ovde: https://www.youtube.com/watch?v=pYo5KDkh2xc&ab_channel=IvanMilic
 
 ## Materijali za kurs Odabranih Poglavlja Astronomije za skolsku 2022/23 god
