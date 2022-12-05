@@ -22,7 +22,7 @@
 
 ### 3 Domaća zadatka: po 15 poena
 
-### Jedan seminarski rad: 15 poena 
+### Jedan seminarski rad: 15 poena - Rok za predaju Seminarskog je 6. Januar 2023! 
 
 ### Završni ispit: 40 poena 
 
