@@ -5,7 +5,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vS7di019I9QBO58WKJcLnnAucoffiu2m
 
 --------------------------------------------------------------------------------------------------------------------------
 
-## Rok za prijavu seminarskih radova je 6. Januar. Ako još uvek niste uzeli temu - uradite to što pre!
+## Rok za predaju seminarskih radova je 6. Januar. Ako još uvek niste uzeli temu - uradite to što pre!
 
 ## Snimljeno predavanje #5 (nedelja u kojoj bismo inače gubili čas zbog praznika) se nalazi ovde: https://www.youtube.com/watch?v=pYo5KDkh2xc&ab_channel=IvanMilic
 
