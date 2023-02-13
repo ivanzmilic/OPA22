@@ -1,6 +1,10 @@
 # OPA22
 
-## Novo: Rezultati prvog domaceg zadatka su ovde: 
+# Novo: Rezultati ispita u Januaru II (Februaru) su ovde:
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vS7di019I9QBO58WKJcLnnAucoffiu2msW-VjtL6qwG1ddxeNBof-BiObCfvBNLn7FcG2v7LWC0P1YO/pubhtml?gid=88440866&single=true
+
+## Rezultati prvog domaceg zadatka su ovde: 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vS7di019I9QBO58WKJcLnnAucoffiu2msW-VjtL6qwG1ddxeNBof-BiObCfvBNLn7FcG2v7LWC0P1YO/pubhtml?gid=1651742418&single=true
 
 --------------------------------------------------------------------------------------------------------------------------
